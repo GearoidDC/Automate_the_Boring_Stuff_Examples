@@ -1,0 +1,1 @@
+@pyw.exe C:\Users\gdcho\AppData\Local\Programs\Python\Python36-32\Learning\mcb.pyw %*
